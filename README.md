@@ -1,6 +1,6 @@
 # Hi, I am Bright Odohofre
 
-**GitHub Analytics**
+## **GitHub Analytics**
 <img align="center" alt="Odohofre's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Odohofre&show_icons=true&hide_border=true&theme=great-gatsby"/>
 <img align="center" height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Odohofre&layout=compact&hide_border=true&langs_count=8&theme=great-gatsby"/>
 <img align="center" width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=Odohofre&langs_count=10&show_icons=true&hide_border=true&locale=en&layout=compact&theme=great-gatsby&line_height=0" />

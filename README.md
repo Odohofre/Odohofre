@@ -5,8 +5,6 @@
 <img align="center" height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Odohofre&layout=compact&hide_border=true&langs_count=8&theme=prussian"/>
 <img align="center" width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=Odohofre&langs_count=10&show_icons=true&hide_border=true&locale=en&layout=compact&theme=prussian&line_height=0" />
 
-[![Odohofre's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@Odohofre&show_icons=true&locale=en&layout=compact&theme=prussian&line_height=0)](https://github.com/Odohofre/github-readme-stats)
-
 ## WHAT AM I WORKING ON
 
 - 🔭 I’m currently working on different projects as a frontend engineer, Open to Frontend Engineering roles and Devrel roles
